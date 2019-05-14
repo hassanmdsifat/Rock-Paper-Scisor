@@ -1,0 +1,11 @@
+E:\C# Project\RockPaperScisor\RockPaperScisor\bin\Debug\RockPaperScisor.exe.config
+E:\C# Project\RockPaperScisor\RockPaperScisor\bin\Debug\RockPaperScisor.exe
+E:\C# Project\RockPaperScisor\RockPaperScisor\bin\Debug\RockPaperScisor.pdb
+E:\C# Project\RockPaperScisor\RockPaperScisor\obj\Debug\RockPaperScisor.Form1.resources
+E:\C# Project\RockPaperScisor\RockPaperScisor\obj\Debug\RockPaperScisor.Properties.Resources.resources
+E:\C# Project\RockPaperScisor\RockPaperScisor\obj\Debug\RockPaperScisor.csproj.GenerateResource.Cache
+E:\C# Project\RockPaperScisor\RockPaperScisor\obj\Debug\RockPaperScisor.exe
+E:\C# Project\RockPaperScisor\RockPaperScisor\obj\Debug\RockPaperScisor.pdb
+E:\C# Project\RockPaperScisor\RockPaperScisor\obj\Debug\RockPaperScisor.csprojResolveAssemblyReference.cache
+E:\C# Project\RockPaperScisor\RockPaperScisor\obj\Debug\RockPaperScisor.Welcome.resources
+E:\C# Project\RockPaperScisor\RockPaperScisor\obj\Debug\RockPaperScisor.HelpForm.resources
